@@ -1,5 +1,5 @@
 # 📄 Resume & GitHub Upload Master Guide
-**Author:** Lalit Kaushik ([@LALIT08KAUSHIK](https://github.com/LALIT08KAUSHIK))
+**Author:** Lalit Kaushik ([GitHub: @LALIT08KAUSHIK](https://github.com/LALIT08KAUSHIK) | [LinkedIn: lalit-kaushik-ymca](https://www.linkedin.com/in/lalit-kaushik-ymca))
 
 ---
 

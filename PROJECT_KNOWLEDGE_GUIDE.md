@@ -1,6 +1,6 @@
 # 🎓 Project Knowledge & Interview Master Guide
 ## *Customer Shopping Trends & Behavior Analysis*
-**Author:** Lalit Kaushik ([@LALIT08KAUSHIK](https://github.com/LALIT08KAUSHIK))
+**Author:** Lalit Kaushik ([GitHub: @LALIT08KAUSHIK](https://github.com/LALIT08KAUSHIK) | [LinkedIn: lalit-kaushik-ymca](https://www.linkedin.com/in/lalit-kaushik-ymca))
 
 > **Purpose of this Guide:**  
 > This guide is your personal cheat sheet. It breaks down every component of the project—the business context, the Python data pipeline, the SQL queries, the Power BI dashboard, and the strategic recommendations. By reading this guide, you will be able to speak about this project with confidence, authority, and depth in technical and behavioral interviews.
